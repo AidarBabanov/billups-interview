@@ -16,12 +16,12 @@ godotenv -f .env [command]
 
 ## Environment Variables
 
-| Variable             | Default | Description                                                                                                 |
-|----------------------|:-------:|-------------------------------------------------------------------------------------------------------------|
-| LOG_LEVEL            |  debug  | Log level for logger. Possible options: trace, debug, info, warning, error, fatal and panic. Default: debug |
-| SERVER_PORT          |  8080   | Port on which app will run. Default: 8080                                                                   |
-| SERVER_READ_TIMEOUT  |   15s   | App read response time. Default: 15s                                                                        |
-| SERVER_WRITE_TIMEOUT |   15s   | App write response time. Default: 15s                                                                       |
+| Variable             | Default | Description                                                                                  |
+|----------------------|:-------:|----------------------------------------------------------------------------------------------|
+| LOG_LEVEL            |  debug  | Log level for logger. Possible options: trace, debug, info, warning, error, fatal and panic. |
+| SERVER_PORT          |  8080   | Port on which app will run.                                                                  |
+| SERVER_READ_TIMEOUT  |   15s   | App read response time.                                                                      |
+| SERVER_WRITE_TIMEOUT |   15s   | App write response time.                                                                     |
 
 
 ## Installation

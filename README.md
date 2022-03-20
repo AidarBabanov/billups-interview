@@ -4,8 +4,7 @@ Coding interview for Billups company.
 
 ## Service configuration
 
-For the correct service work, you need to use environment variables or the `.env` file. You can find an example file
-named `.env.example`.
+For the correct service work, you need to use environment variables or the `.env` file. 
 
 In order to use the file, download the [godotenv](https://github.com/joho/godotenv)
 binary file. General command to run `.env` file:

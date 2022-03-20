@@ -37,7 +37,10 @@ Before running the service set up the environment variables and run the app:
 
 ```bash
 # running the app
-app
+./app
+
+# with .env file
+godotenv -f .env ./app
 ```
 
 ### Docker installation

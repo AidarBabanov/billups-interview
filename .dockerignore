@@ -18,8 +18,20 @@
 .idea/
 .vscode/
 
-# sawgger file
+# Git
+.git
+.gitignore
+
+# swagger file
 swagger.yml
+
+# docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# environment variables
+*.env
 
 # mock files
 *.mock.go
